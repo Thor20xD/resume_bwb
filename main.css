@@ -216,7 +216,7 @@ p {
 /* resize home_image */
 .resize {
     height: 100vh;
-    width: fit-content;
+    width: auto;
     margin-bottom: 10px;
     float: right;
     /* padding: 0; */
